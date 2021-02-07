@@ -1,7 +1,7 @@
 # TOS-2
 
 ThakurOS version 0.2
-Notes: (vx.1) - CLI version of Thakur OS
+Notes: (vx.2) - CLI version of Thakur OS
 
 Project restarted with following new update of ArchISO
 
