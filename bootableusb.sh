@@ -1,5 +1,10 @@
 #Bootable USB Maker for Thakur OS
-#By Demonkiller
+#!/bin/bash
+#set -e
+#=================================================================================
+#Author: DemonKiller
+#SPDX-License-Identifier: GPL-3.0
+#=================================================================================
 #Warning: Insert One USB at a time only. If you have any other USB either remove them from the system or change the script accordingly. Check size with lsblk (uncommment line 10 & 11).
 
 
@@ -24,7 +29,7 @@ echo "USB is Formatted.."
 
 echo "                               "
 echo "================================================================"
-echo "Making Thakur OS bootable ISO, this may take sometime...."
+echo "Making Thakur OS bootable USB, this may take sometime...."
 cd out
 sudo dd if=thakuros-$(date +%Y.%m.%d)-x86_64.iso of=/dev/sdb status='progress'
 
