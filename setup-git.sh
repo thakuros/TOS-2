@@ -6,7 +6,7 @@ set -e
 
 git init
 git config --global user.name "demonkiller" #replace with yourname
-git config --global user.email "enter your email hear" #replace with your emailid
+git config --global user.email "enter your email here" #replace with your emailid
 sudo git config --system core.editor nano
 git config --global credential.helper cache
 git config --global credential.helper 'cache --timeout=25000'
