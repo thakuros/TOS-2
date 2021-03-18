@@ -6,7 +6,7 @@ set -e
 
 git init
 git config --global user.name "demonkiller" 
-git config --global user.email "subhadravishwakarma8gris@gmail.com" 
+git config --global user.email "enter your email address here"  
 sudo git config --system core.editor nano
 git config --global credential.helper cache
 git config --global credential.helper 'cache --timeout=25000'
