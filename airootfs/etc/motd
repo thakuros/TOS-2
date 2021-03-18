@@ -1,9 +1,37 @@
-To install [38;2;23;147;209mArch Linux[0m follow the installation guide:
-https://wiki.archlinux.org/index.php/Installation_guide
+Welcome to "\033[38;1;23;147;33mThakur OS\033[0m" Command Line Installer.
+
+
+                       *
+                     *, .*
+                     *, .*
+                      , .
+                      , .
+            .......................
+            .......................
+            ,.   ...,,,,***///((///.
+            .. ..    ________     ///.
+           ,,...    *  \ | /0%     //*,,
+         ,,..,,     * --000%%%      ***,,,
+     ***...,,       *  /%%%%%%        ********,
+**   ...,,          * %%%%%%%%           .//////**,
+//...                                          (//,
+//.,,       #%                      %%        (///,
+((,,*     ###%%% %%%%%%     %%%   %%%%%%      ///(
+./***/      #%  %%%    %  %%*  %%%  %%       /////
+ ////(      #%  %%       #%%%%%%%%  %%       /*//
+  //(//     #%   %%%%%%%  %%%%%%%,  %%      **//
+   **///                                   ****
+    **//**                               *****
+     //*////(                          //**/*
+      ******//*                      */***/*
+       *****///**                **//*****
+           *******/////*(*/*.**********
+               ********//**********
+                      ******
 
 For Wi-Fi, authenticate to the wireless network using the [35miwctl[0m utility.
 Ethernet and Wi-Fi connections using DHCP should work automatically.
 
-After connecting to the internet, the installation guide can be accessed
-via the convenience script [35mInstallation_guide[0m.
+For GPT partitioning scheme, a minimum of 250MB primary partition, formatted in FAT32 format is a must.
+
 
