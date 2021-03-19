@@ -1,6 +1,4 @@
-Welcome to "\033[38;1;23;147;33mThakur OS\033[0m" Command Line Installer.
-
-
+Welcome to [38;1;23;147;33mThakur OS[0m Command Line Installer.
                        *
                      *, .*
                      *, .*
@@ -31,7 +29,4 @@ Welcome to "\033[38;1;23;147;33mThakur OS\033[0m" Command Line Installer.
 
 For Wi-Fi, authenticate to the wireless network using the [35miwctl[0m utility.
 Ethernet and Wi-Fi connections using DHCP should work automatically.
-
-For GPT partitioning scheme, a minimum of 250MB primary partition, formatted in FAT32 format is a must.
-
 
