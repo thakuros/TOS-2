@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="thakuros"
+iso_name="thakuros_cli"
 iso_label="thakuros_$(date +%Y%m)"
 iso_publisher="Thakur OS <http://www.thakuros.org>"
 iso_application="Thakur OS Live/Rescue CD"
-iso_version="$(date +%Y.%m.%d)"
+iso_version="$(date +%Y.%m)"
 install_dir="arch"
 bootmodes=('bios.syslinux.mbr' 'bios.syslinux.eltorito' 'uefi-x64.systemd-boot.esp' 'uefi-x64.systemd-boot.eltorito')
 arch="x86_64"

@@ -1,6 +1,0 @@
-NAME="Thakur Operating System"
-PRETTY_NAME="Thakur OS"
-ID=arch
-BUILD_ID=rolling
-ANSI_COLOR="38;1;23;147;33"
-LOGO=thakuros
