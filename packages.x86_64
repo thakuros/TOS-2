@@ -42,8 +42,7 @@ iwd
 jfsutils
 kitty-terminfo
 lftp
-linux-hardened
-linux-atm
+linux
 linux-firmware
 livecd-sounds
 lsscsi
