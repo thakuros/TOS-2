@@ -1,0 +1,6 @@
+NAME="TCET Linux"
+PRETTY_NAME="TCET Linux"
+ID=arch
+BUILD_ID=rolling
+ANSI_COLOR="38;1;23;147;33"
+LOGO=tcet
