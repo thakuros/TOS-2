@@ -2,7 +2,6 @@
 # SPDX-License-Identifier: GPL-3.0-or-later
 alsa-utils
 amd-ucode
-archinstall
 arch-install-scripts
 b43-fwcutter
 base
@@ -43,7 +42,7 @@ iwd
 jfsutils
 kitty-terminfo
 lftp
-linux
+linux-hardened
 linux-atm
 linux-firmware
 livecd-sounds
@@ -99,8 +98,6 @@ udftools
 usb_modeswitch
 usbmuxd
 usbutils
-vim
-vpnc
 wireless-regdb
 wireless_tools
 wpa_supplicant
@@ -108,3 +105,5 @@ wvdial
 xfsprogs
 xl2tpd
 zsh
+neofetch
+htop

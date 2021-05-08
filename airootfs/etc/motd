@@ -1,4 +1,4 @@
-Welcome to [38;1;23;147;33mThakur OS[0m Command Line Installer.
+Welcome to [38;1;23;147;33mTCET Linux[0m Command Line Installer.
                        *
                      *, .*
                      *, .*
@@ -30,3 +30,5 @@ Welcome to [38;1;23;147;33mThakur OS[0m Command Line Installer.
 For Wi-Fi, authenticate to the wireless network using the [35miwctl[0m utility.
 Ethernet and Wi-Fi connections using DHCP should work automatically.
 
+It is mandatory to create a partition for minimum 250mb, formatted as FAT 32,
+for UEFI systems partitioned with GPT partitioning scheme.
